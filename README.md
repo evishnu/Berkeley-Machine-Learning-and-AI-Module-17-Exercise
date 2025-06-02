@@ -11,16 +11,18 @@ Improve marketing efficiency by predicting customer subscription likelihood and 
 - Decision Tree Classifier
 - Support Vector Machine (SVM)
 
-## Key Findings
-- Best model based on F1 Score / ROC AUC: ** **
-- High class imbalance requires careful metric selection (F1, ROC AUC).
-- Logistic Regression provides interpretable coefficients.
-- Decision Tree and SVM offer good performance on test data.
+## Key Findings:
+- Best performing model (based on ROC AUC): Logistic Regression
+- Logistic Regression offers interpretability.
+- SVM and Decision Trees show competitive accuracy.
+## Actionable Insights:
+- Use the selected model to target customers more likely to subscribe.
+- Avoid contacting customers who match the lowest predicted probability segment.
 
-## Recommendations
-- Deploy top-performing model in pilot campaigns.
-- Monitor model drift and real-world ROI.
-- Explore ensemble models and real-time scoring.
+## Recommendations:
+- Implement model in a pilot campaign.
+- Monitor uplift in conversion.
+- Consider ensemble methods like Random Forest or XGBoost for further improvement.
 
 ## 📁 Notebook
 
