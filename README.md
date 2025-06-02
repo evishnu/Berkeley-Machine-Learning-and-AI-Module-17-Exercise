@@ -24,5 +24,6 @@ Improve marketing efficiency by predicting customer subscription likelihood and 
 - Monitor uplift in conversion.
 - Consider ensemble methods like Random Forest or XGBoost for further improvement.
 
-## 📁 Notebook
+## File Structure and NoteBook
+Berkeley-Machine-Learning-and-AI-Module-17-Exercise/ │ ├── README.md ├── prompt_III.ipynb ├── data/ │ └── bank-additional-full.csv ├── images/ └── *.png (Feature-Distribution)
 
