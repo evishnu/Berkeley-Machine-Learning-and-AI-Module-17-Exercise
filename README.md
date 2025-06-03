@@ -25,5 +25,5 @@ Improve marketing efficiency by predicting customer subscription likelihood and 
 - Consider ensemble methods like Random Forest or XGBoost for further improvement.
 
 ## File Structure and NoteBook
-Berkeley-Machine-Learning-and-AI-Module-17-Exercise/ │ ├── README.md ├── prompt_III.ipynb ├── data/ │ └── bank-additional-full.csv ├── images/ └── *.png (Feature-Distribution)
+Berkeley-Machine-Learning-and-AI-Module-17-Exercise/ │ ├── README.md ├── prompt_III.ipynb ├── data/ │ └── bank-additional-full.csv ├── images/ └── *.png (Class-Distribution, Correlation-Matrix, Feature-Distribution, and ROC-AOC-Curve-LogisticRegression)
 
